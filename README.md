@@ -1,7 +1,3 @@
-Perfect 👍 Here's a **professional and attractive README.md** for your GitHub repository — reflecting all the features you mentioned (cart, login/signup, buy page, pagination, user profile, dummy API, etc.):
-
----
-
 # 🛒 E-Commerce Web App (React + TypeScript)
 
 A modern **E-Commerce Web Application** built with **React** and **TypeScript** that allows users to browse products, add them to cart, sign up, log in, and make purchases. The app uses a **dummy API** for fetching product data and includes features like **pagination**, **user profile**, and a **responsive UI**.
